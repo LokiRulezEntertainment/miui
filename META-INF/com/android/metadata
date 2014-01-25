@@ -1,0 +1,3 @@
+post-build=verizon_wwe/htc_vigor/vigor:4.0.3/IML74K/372320.10:user/release-keys
+post-timestamp=1359079503
+pre-device=vigor
